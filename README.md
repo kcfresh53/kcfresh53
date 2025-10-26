@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kc</h1>
-<h3 align="center">A passionate interactive media and game developer</h3>
+<h1>Hi 👋, I'm Kc</h1>
+<h3>A passionate interactive media and game developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kcfresh53&label=Profile%20views&color=0e75b6&style=flat" alt="kcfresh53" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcfresh53" alt="kcfresh53" /></a> </p>
 
+<h3>❓ About Me:</h3>
 - 🔭 I’m currently working on **Augmented reality capable Ironman Helmet**
 
 - 👯 I’m looking to collaborate on **addons for the Godot Game Engine**
@@ -12,6 +12,8 @@
 - 💬 Ask me about **Game development, native app development, web, Linux**
 
 - 📫 How to reach me **kcfresh53@gmail.com**
+  
+- 🎓 Currently majoring in: **A Bachelor's Degree for Interactive media and Game development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
